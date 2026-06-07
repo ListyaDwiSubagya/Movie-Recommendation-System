@@ -1,0 +1,4 @@
+# di terminal
+echo "*.pkl" >> .gitignore
+echo "venv/" >> .gitignore
+echo "__pycache__/" >> .gitignore
