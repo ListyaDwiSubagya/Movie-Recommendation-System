@@ -1,4 +1,5 @@
-# di terminal
-echo "*.pkl" >> .gitignore
+echo "cosine_sim.pkl" >> .gitignore
+echo "item_similarity.pkl" >> .gitignore
+echo "movies_data.pkl" >> .gitignore
 echo "venv/" >> .gitignore
 echo "__pycache__/" >> .gitignore
